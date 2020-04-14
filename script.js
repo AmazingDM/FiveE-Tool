@@ -22,5 +22,4 @@
             console.log("估算5E天梯分API返回错误")
         }
     });
-    // Your code here...
 })();
